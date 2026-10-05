@@ -1,0 +1,25 @@
+{
+    "name": "Week_04_Express",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "tests": "echo 'Error: No test specify'",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "express",
+        "node vs nodemon",
+        "query vs params"
+    ],
+    "author": "Ramtin Loghmani",
+    "licence": "ISC",
+    "decription": "Practice using express framewrok with Node",
+    "dependencies": {
+        "express": "^5.2.1",
+        "nodemon": "^3.1.14"
+    },
+    "devdependencies": {
+        "nodemon": "^3.1.14"
+    }
+}
